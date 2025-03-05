@@ -21,4 +21,9 @@ During my master’s program, I worked on projects involving Apache Spark, predi
 
 I chose to return to MTX because of the amazing work culture and supportive environment. The team hierarchy is well-structured, making problem-solving smooth and efficient, and collaboration across teams feels effortless. One thing I really appreciated was the access to learning resources like Coursera, which helped me grow my skills. MTX also values its employees, recognizing and rewarding hard work, which keeps motivation high. Plus, the managerial support was exceptional—high-level managers were always approachable and genuinely invested in helping us succeed. My experience here was both rewarding and inspiring, and I’m excited to be part of this team again.
 
+### What are your career goals in the next 3-5 years?
+
+Over the next 3-5 years, I aim to become a Solution Architect or Senior Consultant, specializing in Salesforce, cloud computing, and data-driven business transformation. I plan to earn Salesforce and AWS certifications to deepen my expertise in enterprise SaaS solutions.
+
+MTX Group’s focus on cutting-edge technologies and strategic consulting provides an ideal environment for me to grow as a consultant, take on leadership responsibilities, and contribute to large-scale digital transformation projects.
 
