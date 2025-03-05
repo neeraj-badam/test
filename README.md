@@ -2,7 +2,7 @@
 
 I'm Neeraj Kumar. I have recently completed my Master’s in Computer Science from the University of North Carolina at Charlotte in December 2024. 
 
-I began my journey at MAQ Software as an Associate Software Engineer, where I developed reusable Power Apps components, built interactive dashboards in Power BI, and optimized SQL queries for improved data efficiency. Additionally, I implemented automated testing frameworks, reducing defect rates by 40%.
+I began my journey at MAQ Software as an Associate Software Engineer, where I developed reusable Power Apps components, built interactive dashboards in Power BI, and optimized SQL queries for improved data efficiency. 
 
 Moving to MTX Group, I worked as a Consultant Trainee, where I focused on Salesforce development with advanced LWCs, API optimization, and workflow automation, improving system performance by 30%. I also contributed to security enhancements, CI/CD integration, and Agile execution, ensuring smoother project workflows.
 
