@@ -21,19 +21,18 @@ Overall, MTX wasn’t just a workplace—it was a space where employees felt val
 
 Over the next 3-5 years, I aim to become a Solution Architect or Senior Consultant, specializing in Salesforce, cloud computing, and data-driven business transformation. I plan to earn Salesforce and AWS certifications to deepen my expertise in enterprise SaaS solutions.
 
-MTX Group’s focus on cutting-edge technologies and strategic consulting provides an ideal environment for me to grow as a consultant, take on leadership responsibilities, and contribute to large-scale digital transformation projects.
-
-
 ### What do you know about MTX Group?
 
-MTX Group is a global technology consulting firm specializing in digital transformation by leveraging cloud computing, AI/ML, and data analytics. The company helps businesses improve decision-making, streamline workflows, and enhance customer experiences. MTX partners with Google Cloud, Salesforce, and other cutting-edge technologies to provide SaaS-based solutions in industries like healthcare, finance, and public services. The Early Career Program is an excellent initiative that focuses on training individuals in business consulting, Salesforce development, and data-driven decision-making, which aligns perfectly with my career aspirations.
-
+MTX Group is a global technology consulting firm that focuses on digital transformation. They use cloud computing, AI, and data analytics to help businesses improve decision-making, streamline processes, and enhance customer experiences. They collaborate with companies like Google Cloud and Salesforce to deliver SaaS solutions across industries such as healthcare, finance, and public services. I'm particularly interested in their Early Career Program, which offers training in business consulting, Salesforce development, and data-driven decision-making—areas that align perfectly with my career goals.
 
 
 ### What challenge did you face?
 
+At MAQ, They gave me a task where I had to explore Power BI in just two weeks. After that, I was assigned to a project that involved Power Apps, a tool I had never worked with before. At first, I was confused and didn’t know where to start. I then reached out to a senior colleague and also took help from some online resources like Udemy, Coursera, Youtube, Reddit, Stackoverflow to learn about Power Apps. In about 3-4 days, I was able to learn enough to complete my tasks. This experience was challenging, but it helped boost my confidence and showed me that I can quickly adapt to new technologies.
 
 
 ### Why should we hire you?
+
 Working with Salesforce at Bumblebee Spaces and MTX Group has been a journey of discovery and growth, and the more I explored its potential, the more it solidified my path toward building a future in this technology. So I can say that this role aligns best with my interest and expertise.
-Alsoo During my master’s program, I worked on projects involving Apache Spark, predictive analytics, and large-scale data processing, which helped refine my problem-solving skills and technical capabilities. Now that I have completed my degree, I am eager to apply my enhanced technical knowledge and consulting experience in a role that allows me to contribute meaningfully to enterprise digital transformation initiatives at MTX Group.
+
+Also During my master’s program, I worked on projects involving Apache Spark, predictive analytics, and large-scale data processing, which helped refine my problem-solving skills and technical capabilities. Now that I have completed my degree, I am eager to apply my enhanced technical knowledge and consulting experience in a role that allows me to contribute meaningfully to enterprise digital transformation initiatives at MTX Group.
