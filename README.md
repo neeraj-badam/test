@@ -27,3 +27,8 @@ Over the next 3-5 years, I aim to become a Solution Architect or Senior Consulta
 
 MTX Group’s focus on cutting-edge technologies and strategic consulting provides an ideal environment for me to grow as a consultant, take on leadership responsibilities, and contribute to large-scale digital transformation projects.
 
+
+What do you know about MTX Group?
+
+MTX Group is a global technology consulting firm specializing in digital transformation by leveraging cloud computing, AI/ML, and data analytics. The company helps businesses improve decision-making, streamline workflows, and enhance customer experiences. MTX partners with Google Cloud, Salesforce, and other cutting-edge technologies to provide SaaS-based solutions in industries like healthcare, finance, and public services. The Early Career Program is an excellent initiative that focuses on training individuals in business consulting, Salesforce development, and data-driven decision-making, which aligns perfectly with my career aspirations.
+
