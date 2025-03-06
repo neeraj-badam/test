@@ -6,6 +6,20 @@ I began my professional journey at MAQ Software as an Associate Software Enginee
 
 After that I was a Software Development Engineer at Bumblebee Spaces which involved some more Workflow automation, Lightning Web Components optimization, and AWS integration with salesforce.
 
+### Walk me through your resume:
+
+While working at Bumblebee spaces, I was working on a project where we were developing Smart Home Installation Inventory Management Systems, The goal was to create a real time web platform for customers and internal teams to monitor inventory, request maintenance and mange inventory installations. I worked on UI, where they handle the customer requests regarding maintenance, installations etc. And in backend we used AWS Kafka for real time updates and also ensuring the inventory live tracking updates.
+
+then coming to MTX, we worked on MO DPR Project, Here in this project users can apply for business licenses where there will be a lot of lienses like healthcare, chiropracticioner, dentist, Barber, etc, So, there will be a background check and if they approve they will get the business license. I worked on LWC, Vlocity components, Apex, Aura, Security policies and bulkifying triggers.
+
+And at MAQ, I worked on a couple of power bi dashboards to analyze our organization client relation and business decisions, and optimizing some SQL queries using techniques like Normalization, Indexing.
+
+
+### Where did you use PowerBI and tell me about your experience with it?
+
+At MAQ Software, I worked on developing Power BI dashboards for clients across various industries, focusing on data-driven decision-making. One of the key projects I worked on involved building interactive dashboards for customer engagement analysis. These dashboards were built to look at client interactions, activity trends, and data exchange rates between different platforms.
+
+Additionally, I developed financial performance dashboards that helped businesses track revenue trends, cost breakdowns, and profitability across different regions. Also, a dashboard on sales and marketing analytics, where I created reports to monitor lead conversion rates, campaign effectiveness, and customer retention metrics.
 
 ### Why Did You Leave MTX Group?
 
