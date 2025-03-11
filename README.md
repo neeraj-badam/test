@@ -50,3 +50,8 @@ At MAQ, They gave me a task where I had to explore Power BI in just two weeks. A
 Working with Salesforce at Bumblebee Spaces and MTX Group has been a journey of discovery and growth, and the more I explored its potential, the more it solidified my path toward building a future in this technology. So I can say that this role aligns best with my interest and expertise.
 
 Also During my master’s program, I worked on projects involving Apache Spark, predictive analytics, and large-scale data processing, which helped refine my problem-solving skills and technical capabilities. Now that I have completed my degree, I am eager to apply my enhanced technical knowledge and consulting experience in a role that allows me to contribute meaningfully to enterprise digital transformation initiatives at MTX Group.
+
+
+### Why are you transitioning from a Developer to a QA/BA role?
+
+As a developer, I was already involved in testing the features I built, and I realized I really enjoy that part of the process. The idea of understanding what stakeholders need and gathering those requirements is something that excites me. I also find the analysis of those requirements really interesting, so I see this role as a great opportunity to dive deeper into that and contribute in a new way.
