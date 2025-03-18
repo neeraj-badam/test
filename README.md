@@ -118,6 +118,10 @@ I believe Power BI, SQL, Salesforce, and AWS are the key skills related to a Bus
 
 ---
 
+If hired as a Junior Associate Consultant at MTX Group, I will use my Salesforce skills to help configure and customize solutions based on client needs. I will assist with data migration, workflow automation, and system integration to improve efficiency. I will also support testing, documentation, and stakeholder communication to ensure smooth project execution. Additionally, I will keep learning through Salesforce training and certifications to stay updated with new features. By working closely with the team and adapting to new challenges, I will contribute to successful project delivery and client satisfaction.
+
+---
+
 
 a
 ---
