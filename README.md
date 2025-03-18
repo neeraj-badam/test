@@ -12,6 +12,7 @@
 ### 10. [Why are you transitioning from a Developer to a QA/BA role?](#why-are-you-transitioning-from-a-developer-to-a-qaba-role)
 ### 11. [What are your strengths?](#what-are-your-strengths)
 ### 12. [What are your weaknesses?](#what-are-your-weaknesses)
+### 13. [What do you think are the key skills needed for a successful consultant](#successful-consultant)
 
 ---
 
@@ -106,6 +107,11 @@ One of my key strengths is my positive attitude. I approach challenges with opti
 One of my weaknesses is that I tend to be a workaholic. I often get so focused on my work that I skip meals to meet deadlines. While my dedication helps me stay productive, I am working on maintaining a healthier balance to better care for myself.
 
 [Back to Top](#interview-readme)
+
+### <a-href="successful-consultant"></a> 13. What do you think are the key skills needed for a successful consultant?
+effective communication, problem-solving, adaptability, technical expertise, and the ability to understand client needs.
+Applying these skills has helped me deliver customized solutions and achieve desired outcomes consistently.
+
 
 a
 ---
