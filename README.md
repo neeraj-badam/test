@@ -108,7 +108,7 @@ One of my weaknesses is that I tend to be a workaholic. I often get so focused o
 
 [Back to Top](#interview-readme)
 
-### <a-href="successful-consultant"></a> 13. What do you think are the key skills needed for a successful consultant?
+### <a name="successful-consultant"></a>13. What do you think are the key skills needed for a successful consultant?
 effective communication, problem-solving, adaptability, technical expertise, and the ability to understand client needs.
 Applying these skills has helped me deliver customized solutions and achieve desired outcomes consistently.
 
