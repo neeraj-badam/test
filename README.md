@@ -82,7 +82,7 @@ At MAQ, I was given the task to explore Power BI in just two weeks. Soon after, 
 ---
 
 ### <a name="why-should-we-hire-you"></a>9. Why should we hire you?
-My experience with Salesforce at Bumblebee Spaces and MTX Group has been a journey of growth, and I’m excited to continue that path. During my master’s program, I worked on projects involving Apache Spark, predictive analytics, and large-scale data processing. Now that I've completed my degree, I’m eager to apply my enhanced technical knowledge and consulting experience in a role that contributes meaningfully to enterprise digital transformation at MTX.
+My experience with Salesforce at Bumblebee Spaces and MTX Group has been a journey of growth, and I’m excited to continue that path. During my master’s program, I worked on projects involving Apache Spark, predictive analytics, and large-scale data processing. Now that I've completed my degree, I’m eager to apply my enhanced technical knowledge and consulting experience in a role that contributes meaningfully to enterprise digital transformation at MTX and grow through the Early Career Program.
 
 [Back to Top](#interview-readme)
 
