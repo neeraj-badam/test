@@ -114,6 +114,8 @@ Applying these skills has helped me deliver customized solutions and achieve des
 
 [Back to Top](#interview-readme)
 
+I believe Power BI, SQL, Salesforce, and AWS are the key skills related to a Business Analyst role. Power BI and SQL help me gather, analyze, and present data effectively, turning complex data into useful insights for better decision-making. Salesforce and AWS are valuable for automating workflows, integrating systems, and improving efficiency and user experience. These skills help me bridge the gap between technical solutions and business needs, making sure I can communicate clearly with teams and deliver practical, efficient solutions.
+
 ---
 
 
