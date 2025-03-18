@@ -55,3 +55,14 @@ Also During my master’s program, I worked on projects involving Apache Spark, 
 ### Why are you transitioning from a Developer to a QA/BA role?
 
 As a developer, I was already involved in testing the features I built, and I realized I really enjoy that part of the process. The idea of understanding what stakeholders need and gathering those requirements is something that excites me. I also find the analysis of those requirements really interesting, so I see this role as a great opportunity to dive deeper into that and contribute in a new way.
+
+
+### What are your strengths?
+
+One of my key strengths is my positive attitude. I approach challenges with optimism and stay focused even during tough situations. This mindset helps me stay productive and support my team effectively.
+
+
+### What are your weaknesses?
+
+One of my weaknesses is that I'm a workaholic. I often get so focused on my work that I end up skipping meals to meet deadlines. While my dedication helps me stay productive, I’m working on maintaining a healthier balance to take better care of myself.
+
