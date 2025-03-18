@@ -106,3 +106,22 @@ One of my key strengths is my positive attitude. I approach challenges with opti
 One of my weaknesses is that I tend to be a workaholic. I often get so focused on my work that I skip meals to meet deadlines. While my dedication helps me stay productive, I am working on maintaining a healthier balance to better care for myself.
 
 [Back to Top](#interview-readme)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
