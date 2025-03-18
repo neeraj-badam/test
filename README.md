@@ -112,6 +112,10 @@ One of my weaknesses is that I tend to be a workaholic. I often get so focused o
 effective communication, problem-solving, adaptability, technical expertise, and the ability to understand client needs.
 Applying these skills has helped me deliver customized solutions and achieve desired outcomes consistently.
 
+[Back to Top](#interview-readme)
+
+---
+
 
 a
 ---
