@@ -40,6 +40,58 @@
 - [6. Spring Scheduler / Async](#6-spring-scheduler--async)
 - [7. Dependency Injection](#7-dependency-injection)
 - [8. Spring Boot Profiles & Configs](#8-spring-boot-profiles--configs)
+- [16 .What are your strengths as an engineer?](#16-what-are-your-strengths-as-an-engineer)
+- [challenging technical problem.](#challenging-technical-problem)
+- [work in team setting?](#work-in-team-setting)
+- [received critical feedback.](#received-critical-feedback)
+- [something that failed? What did you learn?](#something-that-failed-what-did-you-learn)
+- [prep for first round?](#prep-for-first-round)
+- [enjoy most: frontend, backend, or full stack?](#enjoy-most-frontend-backend-or-full-stack)
+- [Google’s engineering culture?](#googles-engineering-culture)
+- [favorite project & y?](#favorite-project--y)
+- [stay updated with technology?](#stay-updated-with-technology)
+- [kind of mentorship or growth are you looking for?](#kind-of-mentorship-or-growth-are-you-looking-for)
+- [choice between 2-3 teams, how would you decide?](#choice-between-2-3-teams-how-would-you-decide)
+- [success mean to you in your first year at Google?](#success-mean-to-you-in-your-first-year-at-google)
+- [worked on a cross-functional team?](#worked-on-a-cross-functional-team)
+- [one technical concept you recently learned or improved on?](#one-technical-concept-you-recently-learned-or-improved-on)
+- [Resume Deep Dive](#resume-deep-dive)
+- [Liftoff?](#liftoff)
+- [What was your specific contribution to this project?](#what-was-your-specific-contribution-to-this-project)
+- [How did you handle challenges or blockers in that role?](#how-did-you-handle-challenges-or-blockers-in-that-role)
+- [Which part of the tech stack did you enjoy most?](#which-part-of-the-tech-stack-did-you-enjoy-most)
+- [We monitored the system using Splunk for real-time incident tracking.](#we-monitored-the-system-using-splunk-for-real-time-incident-tracking)
+- [Deloitte](#deloitte)
+- [What was your specific contribution to this project?](#what-was-your-specific-contribution-to-this-project)
+- [How did you handle challenges or blockers in that role?](#how-did-you-handle-challenges-or-blockers-in-that-role)
+- [Which part of the tech stack did you enjoy most?](#which-part-of-the-tech-stack-did-you-enjoy-most)
+- [DC PVT LTD](#dc-pvt-ltd)
+- [What was your specific contribution to this project?](#what-was-your-specific-contribution-to-this-project)
+- [How did you handle challenges or blockers in that role?](#how-did-you-handle-challenges-or-blockers-in-that-role)
+- [Which part of the tech stack did you enjoy most?](#which-part-of-the-tech-stack-did-you-enjoy-most)
+- [Role & Team Alignment](#role--team-alignment)
+- [Do you prefer frontend, backend, or full stack?](#do-you-prefer-frontend-backend-or-full-stack)
+- [What kind of team would you be excited to join at Google?](#what-kind-of-team-would-you-be-excited-to-join-at-google)
+- [Are you interested in more user-facing products or backend systems?](#are-you-interested-in-more-user-facing-products-or-backend-systems)
+- [Would you prefer working on consumer products or enterprise tools?](#would-you-prefer-working-on-consumer-products-or-enterprise-tools)
+- [Interview Process & Readiness](#interview-process--readiness)
+- [How did you prepare for your first round?](#how-did-you-prepare-for-your-first-round)
+- [What are you doing to prepare for final rounds?](#what-are-you-doing-to-prepare-for-final-rounds)
+- [Would you like tips or resources from us for the final interviews?](#would-you-like-tips-or-resources-from-us-for-the-final-interviews)
+- [When do you graduate and when can you start?](#when-do-you-graduate-and-when-can-you-start)
+- [Do you require visa sponsorship?](#do-you-require-visa-sponsorship)
+- [Are you interviewing elsewhere?](#are-you-interviewing-elsewhere)
+- [Do you have any location preferences?](#do-you-have-any-location-preferences)
+- [Are you open to remote roles or only in-office?](#are-you-open-to-remote-roles-or-only-in-office)
+- [Tell me about a time you worked with someone difficult.](#tell-me-about-a-time-you-worked-with-someone-difficult)
+- [Tell me about a time you received feedback.](#tell-me-about-a-time-you-received-feedback)
+- [How do you handle ambiguity?](#how-do-you-handle-ambiguity)
+- [Are you open to remote roles or only in-office?](#are-you-open-to-remote-roles-or-only-in-office)
+- [How do you stay motivated during long or difficult projects?](#how-do-you-stay-motivated-during-long-or-difficult-projects)
+- [Describe a time when you helped a teammate.](#describe-a-time-when-you-helped-a-teammate)
+- [How do you handle disagreements in a team setting?](#how-do-you-handle-disagreements-in-a-team-setting)
+- [SECTION 6: Questions for Recruiter (You Ask Them)](#section-6-questions-for-recruiter-you-ask-them)
+- [Be ready to ask 2–3 questions to show engagement:](#be-ready-to-ask-23-questions-to-show-engagement)
 
 ---
 
@@ -545,6 +597,459 @@ T: I had to present my case without dismissing his concerns about control and au
 A: I proposed a hybrid model where critical roles required manual review while common roles were automated. I backed this with audit logs and test data.
 R: The team accepted the solution, and we later found that automation covered over 80% of cases while preserving compliance. It taught me to find middle ground with facts, not opinion
 SECTION 6: Questions for Recruiter (You Ask Them)
+Be ready to ask 2–3 questions to show engagement:
+“What kinds of teams typically hire early career engineers at Google?”
+“Are there any areas I should focus on more when preparing for final rounds?”
+“Is there an opportunity to express my preferences before team matching?”
+“Can you share the overall timeline and when team matching typically happens post-interview?”
+“What happens after the final interviews?”
+After the final interviews, what’s the typical timeline for results and team matching? Do candidates have any input on which teams they match with?
+“Are there specific skills or traits Google looks for in early career engineers?”
+From your experience, what technical or behavioral traits stand out most in successful early career hires at Google?
+“Is there flexibility in team choice or location post-offer?”
+If I move forward, would I have the opportunity to express preferences regarding team domain or office location?
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## 16 .What are your strengths as an engineer?
+
+My strengths include designing full-stack systems, writing clean and scalable backend code, and deploying to the cloud using CI/CD and containers.
+ I’m also strong in collaboration—I work well in agile teams and enjoy mentoring or knowledge-sharing. Lastly, I’m a fast learner and adapt quickly to new technologies, which has helped me succeed in multiple tech stacks.
+ 
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## challenging technical problem.
+
+At Deloitte, we had to integrate SailPoint with multiple HR and LDAP systems. The challenge was ensuring data consistency across identity sources. I built custom Java workflows and used REST APIs to sync data in real-time, reducing manual interventions by 90%. We also used Postman and JUnit to automate test cases, which improved deployment speed and reliability.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## work in team setting?
+
+I enjoy collaborating closely with product and engineering teams. I often take the lead on backend integration, share updates during standups, and help unblock others when needed. At Liftoff, I also mentored juniors and helped streamline our CI/CD process, which improved delivery speed.
+received critical feedback.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## received critical feedback.
+
+During my early days at Deloitte, a senior engineer pointed out that I was too focused on implementation without fully considering edge cases. I took that feedback seriously and began reviewing edge scenarios more thoroughly and writing more unit tests. It helped me build more robust and reliable code.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## something that failed? What did you learn?
+
+Yes, in one project at DC Pvt Ltd, we initially launched a calendar feature without thorough user testing. Users found the drag-and-drop UI unintuitive. We paused deployment, gathered feedback, and redesigned it using a simpler layout. It taught me the importance of early UX testing and user-centric design.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## prep for first round?
+
+I reviewed common data structures and algorithms using platforms like LeetCode and Educative. I also practiced mock interviews with peers and focused on writing clean, optimized code in JAVA, which are my strongest languages. I timed myself and practiced explaining my thought process out loud to improve communication.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## enjoy most: frontend, backend, or full stack?
+
+I really enjoy full-stack development because I like seeing how everything connects, but if I had to choose, I’m especially drawn to backend systems and infrastructure. I enjoy designing APIs, working with databases, and optimizing performance in cloud environments.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Google’s engineering culture?
+
+From what I’ve learned, Google emphasizes clean, scalable code, deep technical discussions, and a collaborative, feedback-driven environment. Engineers are encouraged to learn, take initiative, and work across teams, which really aligns with how I’ve worked in previous roles.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## favorite project & y?
+
+My favorite was the online bookstore I built at Liftoff. I loved combining real-time features like order tracking with secure payments and notifications. It was a true full-stack experience where I worked with WebSockets, Stripe, Twilio, and Azure. Seeing it come together as a complete product used by real users was very rewarding.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## stay updated with technology?
+
+I follow engineering blogs like Google Developers and Medium, subscribe to newsletters like Java Weekly, and attend local meetups or virtual conferences when possible. I also explore open-source projects on GitHub to see how others solve real-world problems.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## kind of mentorship or growth are you looking for?
+
+I value mentorship that provides both technical guidance and career perspective. I’d like to work under experienced engineers who give constructive feedback and challenge me to improve. I also enjoy mentoring others—I’ve done that before and learned a lot in the process.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## choice between 2-3 teams, how would you decide?
+
+I’d look at the technical stack, the team’s mission, and the learning opportunities. I’d prefer a team where I can make meaningful contributions early on, work on scalable systems, and grow by learning from experienced engineers.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## success mean to you in your first year at Google?
+
+Success would mean ramping up quickly, becoming a reliable contributor to my team, writing high-quality, production-ready code, and continuously improving based on feedback. I’d also aim to take ownership of a feature or service and contribute to team-wide efforts like code reviews or system improvements.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## worked on a cross-functional team?
+
+Yes, at Liftoff I worked closely with DevOps, product managers, and QA engineers. For example, during the online bookstore project, I collaborated with DevOps to streamline CI/CD pipelines, with PMs to refine user flows, and with QA to resolve edge-case bugs before production.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## one technical concept you recently learned or improved on?
+
+Recently, I dove deeper into Kubernetes and container orchestration while deploying microservices on Azure AKS. I learned about Helm charts, scaling policies, and how to monitor pods efficiently. It helped me understand production-grade deployment and infrastructure more clearly.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Resume Deep Dive
+
+_(Answer coming soon...)_
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Liftoff?
+
+S: At Liftoff, I worked on a scalable online bookstore platform as a full stack engineer.
+T: My task was to build a secure shopping and order tracking system integrated with payments and real-time notifications.
+A: I used ASP.NET Core for backend services, React 18 with Tailwind for the frontend, and Stripe for payments. I also implemented real-time order tracking using WebSockets and notifications via Twilio and SendGrid. PostgreSQL was optimized using Entity Framework Core, and we deployed everything to Azure AKS with CI/CD pipelines.
+R: The system supported over 300 users and processed 200+ transactions/month, with a 30% improvement in query performance and a smoother user experience.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## What was your specific contribution to this project?
+
+S: Liftoff was building a scalable online bookstore with real-time features.
+T: I was responsible for implementing core backend services and real-time order tracking, along with frontend integrations.
+A: I developed RESTful APIs using ASP.NET Core to handle user authentication, product listings, and Stripe payment integration. On the frontend, I built responsive pages in React 18 using Tailwind CSS. I also implemented WebSockets for real-time tracking and notifications, and integrated Twilio and SendGrid. Finally, I containerized the services with Docker and deployed them to Azure AKS using CI/CD pipelines.
+R: This resulted in a fully functional bookstore supporting 300+ users and 200+ monthly transactions, with improved delivery accuracy and a 30% increase in backend performance.
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## How did you handle challenges or blockers in that role?
+
+S: A major blocker occurred when WebSocket connections were dropping intermittently during high traffic.
+T: I needed to ensure stable real-time communication for order tracking.
+A: I analyzed server logs and found that the AKS load balancer was misconfigured for sticky sessions. I worked with the DevOps team to update the Helm chart to maintain session persistence. Additionally, I implemented a reconnection mechanism on the client using exponential backoff to gracefully handle disconnects.
+R: This reduced connection failures by 90% and improved order tracking reliability during high-traffic hours.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Which part of the tech stack did you enjoy most?
+
+I especially enjoyed working with WebSockets and real-time features. Designing the order tracking and integrating Twilio and SendGrid for alerts made the app feel alive and responsive. Seeing the direct impact of this feature on user satisfaction was extremely rewarding.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Deloitte
+
+S: At Deloitte, I joined the IAM team to reduce manual identity provisioning.
+T: I needed to automate the entire identity lifecycle across LDAP, Active Directory, and HR systems using SailPoint IDMS.
+A: I designed workflows in Java 17 and created microservices in C# to integrate systems. I also used Postman and JUnit for testing and deployed services with AWS Lambda and Step Functions. We monitored the system using Splunk for real-time incident tracking.
+R: This reduced manual effort by over 90% and improved compliance with SOX and GDPR, cutting response time for access issues by over 50%.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## What was your specific contribution to this project?
+
+S: The team was tasked with automating IAM processes using SailPoint across multiple systems.
+T: I owned the integration of HR, LDAP, and AD systems with SailPoint and helped automate identity lifecycle events.
+A: I wrote Java workflows and customized rules in SailPoint IdentityNow. I also created supporting backend services in C# for data validation and transformation. I built REST connectors to sync user data and used AWS Lambda + Step Functions for scalable automation. I wrote JUnit 5 tests and Postman test suites to validate workflows.
+R: My work led to a 90% reduction in manual access provisioning, with faster and more secure onboarding/offboarding processes.
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## How did you handle challenges or blockers in that role?
+
+S: During integration testing, we faced data mismatches between the HR system and SailPoint which caused provisioning errors.
+T: I needed to fix inconsistent data and ensure synchronization without downtime.
+A: I developed a Java-based validation layer to cross-check incoming records against expected schema and log inconsistencies. I also added a retry mechanism for failed sync attempts and collaborated with the HR systems team to align field mappings.
+R: This reduced sync errors by 85% and made the system much more resilient. We achieved a successful audit with no major compliance gaps.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Which part of the tech stack did you enjoy most?
+
+I really enjoyed working with AWS Step Functions and Lambda. Designing serverless flows for IAM events like access reviews and revocation gave me insight into scalable, event-driven architecture. It felt great to see that automation replace what was once a tedious manual process.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## DC PVT LTD
+
+S: At DC Pvt Ltd, clients often faced double bookings and appointment overlaps.
+T: I was tasked with creating a smart calendar with integrated payment and confirmation systems.
+A: I used ASP.NET Core and React to build the UI, and Blazor for drag-and-drop scheduling. Integrated Twilio and SendGrid for real-time reminders, Stripe/PayPal for payments, and RBAC via Azure Active Directory. Used Redis for caching and Azure SQL for persistence.
+R: Scheduling errors dropped by 80%, and user satisfaction increased based on client feedback. The system scaled to over 10,000 users with 99.9% uptime after deployment.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## What was your specific contribution to this project?
+
+S: Our goal was to build a smart appointment booking system to reduce scheduling conflicts.
+T: I was responsible for designing and building the scheduling UI and backend, and integrating third-party services.
+A: I created the drag-and-drop calendar using Blazor on the frontend and ASP.NET Core APIs for availability logic. I integrated Stripe and PayPal for payments, Twilio and SendGrid for SMS/email confirmations, and Azure AD for RBAC. I used Entity Framework for DB interaction and Redis for caching.
+R: My work reduced double bookings by 80% and improved booking confirmation speed. The app scaled to 10,000+ users post-deployment with 99.9% uptime.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## How did you handle challenges or blockers in that role?
+
+S: Initially, we faced performance issues when many users accessed the calendar at once.
+T: My challenge was to reduce response time and prevent slow UI loads.
+A: I introduced Redis caching for time slot availability data and paginated calendar views to reduce frontend load. I also refactored API endpoints to return only required data, avoiding unnecessary DB joins.
+R: The result was a 50% faster response time, and the system became more responsive under concurrent usage.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Which part of the tech stack did you enjoy most?
+
+I enjoyed designing the Blazor-based drag-and-drop interface. It was the first time I built an interactive UI of that complexity, and integrating it with Twilio and SendGrid for real-time confirmations made it feel like a complete, polished product
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Role & Team Alignment
+
+## Do you prefer frontend, backend, or full stack?
+
+I prefer full stack because I like owning features end-to-end, but I’m particularly drawn to backend systems. I enjoy working with APIs, databases, and scalable infrastructure. At Liftoff, for example, I handled the entire order processing pipeline—from the React UI to the ASP.NET backend to Azure deployments—giving me a deep appreciation for both sides.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## What kind of team would you be excited to join at Google?
+
+I'd be excited to join teams building backend platforms, identity/authentication tools, or developer infrastructure. My work at Deloitte and Liftoff gave me hands-on experience with access control, real-time notifications, and secure systems—areas I’d love to continue working in at scale.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Are you interested in more user-facing products or backend systems?
+
+While I enjoy full-stack development, I’m more inclined toward backend systems. I love designing secure, scalable APIs and working with databases, cloud deployments, and system integrations. For example, at Deloitte, I worked on backend IAM workflows with Java and REST APIs that automated identity provisioning across LDAP and Active Directory. That experience made me appreciate the depth and impact of robust backend engineering.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Would you prefer working on consumer products or enterprise tools?
+
+I’m open to both, but I’m especially drawn to enterprise tools because of my experience at Deloitte and Liftoff. I like solving problems that affect reliability, scalability, and performance. At Deloitte, we built identity systems that directly impacted compliance and security across global clients, and I enjoyed the level of precision and trust required in those tools.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Interview Process & Readiness
+
+## How did you prepare for your first round?
+
+S: I knew Google’s interview process focuses heavily on problem-solving.
+T: My goal was to build strong fundamentals in algorithms and coding.
+A: I practiced LeetCode problems (medium/hard), reviewed CS concepts like time complexity and recursion, and simulated real interviews with peers. I also practiced explaining my solutions aloud.
+R: This helped me stay calm during the real interview and complete both problems with clarity and confidence.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## What are you doing to prepare for final rounds?
+
+I'm deepening my DS/Algo practice on LeetCode and Educative, especially focusing on recursion, trees, graphs, and dynamic programming. I'm also revisiting system design basics and Googliness-style behavioral questions. I’ve scheduled mock interviews to simulate pressure and get feedback.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Would you like tips or resources from us for the final interviews?
+
+Absolutely, I’d really appreciate that. I’ve been practicing LeetCode and working on system design basics, but any Google-specific guidance or behavioral prep resources would be extremely helpful, especially for the Googliness round.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## When do you graduate and when can you start?
+
+I graduate in December 2024 and I’m available to start full-time in January 2025.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Do you require visa sponsorship?
+
+Yes, I’ll be on F-1 OPT after graduation and would require H-1B sponsorship for long-term employment.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Are you interviewing elsewhere?
+
+I am in early stages with a couple of companies, but Google is one of my top preferences. I'm fully committed to seeing this process through and would love to move forward.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Do you have any location preferences?
+
+I’m flexible on location. I’d love to work where there’s strong team alignment and mentoring. Seattle, New York, or Sunnyvale would be great, but I’m open to others.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Are you open to remote roles or only in-office?
+
+I’m open to either. While I’d love the collaborative energy of an in-office team—especially early in my career—I’m also comfortable working in hybrid or remote setups. I’ve worked with distributed teams at Deloitte and managed deadlines and code reviews effectively across time zones.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Tell me about a time you worked with someone difficult.
+
+S: At Deloitte, I worked with a colleague who consistently missed deadlines.
+T: It impacted our IAM sprint deliveries, and I was leading a feature that depended on his task.
+A: I set up a one-on-one to understand his blockers. It turned out he was new to the SailPoint API, so I helped him onboard and shared sample workflows. I also broke tasks into smaller chunks for clarity.
+R: His productivity improved, and we completed the sprint on time. It taught me the value of proactive communication and support.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Tell me about a time you received feedback.
+
+S: During my initial weeks at Liftoff, a senior engineer pointed out that my PRs had too many assumptions in business logic.
+T: I needed to align more closely with product requirements and user cases.
+A: I started reviewing tickets more thoroughly, asking questions early, and validating edge cases with QA and product before coding.
+R: My code quality improved significantly and I began getting positive feedback in code reviews. It helped me mature as an engineer.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## How do you handle ambiguity?
+
+S: At DC Pvt Ltd, we were asked to build a booking calendar with vague requirements.
+T: I needed to define how users would drag and reschedule appointments with minimal rework.
+A: I met with the product owner, gathered feedback from support staff, and designed a prototype using Blazer. We validated it with users before scaling it out.
+R: This reduced changes later in development and the calendar was one of the most appreciated features post-launch.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Are you open to remote roles or only in-office?
+
+I’m open to either. While I’d love the collaborative energy of an in-office team—especially early in my career—I’m also comfortable working in hybrid or remote setups. I’ve worked with distributed teams at Deloitte and managed deadlines and code reviews effectively across time zones.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## How do you stay motivated during long or difficult projects?
+
+S: At DC Pvt Ltd, our Smart Appointment System project extended for 8+ months due to scope changes and customer requests.
+T: I needed to stay focused while handling new feature demands and system issues simultaneously.
+A: I broke my work into weekly goals, and whenever I felt stuck, I switched focus to small improvements like UX tweaks or performance tuning. Collaborating with teammates and seeing user feedback also kept me energized.
+R: We delivered the project successfully, and I learned how to stay consistent, even when results aren’t immediately visible.
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Describe a time when you helped a teammate.
+
+S: At Liftoff, a new intern was struggling with our Stripe integration.
+T: Since I had already built that module, I offered to help get them up to speed.
+A: I walked them through our codebase, shared Postman collections, and helped them understand error logs. We pair-programmed the webhook logic so they could see it in action.
+R: They became more confident and completed their feature ahead of schedule. It also helped build a stronger team dynamic.
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## How do you handle disagreements in a team setting?
+
+S: During a sprint at Deloitte, we had a disagreement on how to handle access requests—one engineer preferred a manual workflow, while I advocated for automation.
+T: I had to present my case without dismissing his concerns about control and auditing.
+A: I proposed a hybrid model where critical roles required manual review while common roles were automated. I backed this with audit logs and test data.
+R: The team accepted the solution, and we later found that automation covered over 80% of cases while preserving compliance. It taught me to find middle ground with facts, not opinion
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## SECTION 6: Questions for Recruiter (You Ask Them)
+
+_(Answer coming soon...)_
+
+[🔝 Back to Top](#interview-questions-and-answers)
+
+---
+
+## Be ready to ask 2–3 questions to show engagement:
+
 Be ready to ask 2–3 questions to show engagement:
 “What kinds of teams typically hire early career engineers at Google?”
 “Are there any areas I should focus on more when preparing for final rounds?”
